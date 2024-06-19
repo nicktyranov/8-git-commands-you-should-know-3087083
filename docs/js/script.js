@@ -50,7 +50,7 @@ $(function () {
 
   let controller = new ScrollMagic.Controller()
   let friendTextTween = TweenMax.from('.friend-text', {
-    y: 400,
+    y: 4000,
     opacity: 0,
   })
 

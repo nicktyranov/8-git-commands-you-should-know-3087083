@@ -3,7 +3,7 @@ html {
 }
 
 .site-nav {
-  z-index: 20;
+  z-index: 200;
 }
 
 .site-nav.in-body {
